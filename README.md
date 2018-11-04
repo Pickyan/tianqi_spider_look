@@ -1,0 +1,3 @@
+# tianqi_spider_look
+simple pyecharts Bar
+爬取中国天气网各个城市的最低温度，并用pyecharts可视化工具对最低的十个城市进行简单的可视化处理。
